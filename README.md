@@ -8,6 +8,10 @@ have changed. We have many options to host our own NuGet packages for free
 this repo we show how to build our own packages using .NET Core's CLI,
 push them to GitHub and finally, how to consume from our own projects.
 
+To understand more about this project, read the blog post
+[Hosting NuGet packages on GitHub](https://blog.hildenco.com/2020/07/hosting-nuget-packages-on-github.html)
+on my blog.
+
 ## License
 This project is licensed under
 [the MIT License](https://opensource.org/licenses/MIT).
